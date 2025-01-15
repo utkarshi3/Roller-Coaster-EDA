@@ -12,22 +12,6 @@ This project explores and analyzes data related to roller coasters using Python.
 4. **Data Preparation**: Cleaning and preprocessing the dataset to ensure consistency and usability.
 5. **Feature Understanding**: Analyzing key features and attributes of roller coasters.
 
-## Example Code Snippets
-
-#### 1. Importing Libraries
-
-import pandas as pd
-import numpy as np
-import matplotlib.pylab as plt
-import seaborn as sns
-pd.set_option('display.max_columns', 200)
-
-
-#### 2. Reading the Data
-
-df = pd.read_csv("coaster_db.csv")
-
-
 ## Features and Insights
 
 - **Data Preparation**: Handles missing values and outliers.
