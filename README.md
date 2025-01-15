@@ -16,7 +16,7 @@ This project explores and analyzes data related to roller coasters using Python.
 
 #### 1. Importing Libraries
 
-# Importing important libraries
+##### Importing important libraries
 import pandas as pd
 import numpy as np
 import matplotlib.pylab as plt
@@ -27,7 +27,7 @@ pd.set_option('display.max_columns', 200)
 
 #### 2. Reading the Data
 
-# Reading the data from a CSV file
+##### Reading the data from a CSV file
 df = pd.read_csv("coaster_db.csv")
 
 
